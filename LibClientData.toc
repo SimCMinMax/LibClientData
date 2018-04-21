@@ -1,0 +1,12 @@
+## Interface: 80000
+
+## Title: Lib |cFFA330C9Client|r Data
+## Author: Aethys, KutiKuti
+## Version: 8.0
+## Notes: Make accessible in-game useful WoW client datas (DBC).
+
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: LibClientDataDB
+
+LibClientData.lua
